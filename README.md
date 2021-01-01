@@ -3,18 +3,18 @@
 An 'Auto Reply BOT', that is capable of reading the message and replying to it with specific replies on WhatsApp.
 
 
-download whatsapp for desktop https://www.whatsapp.com/download
+1. Download whatsapp for desktop https://www.whatsapp.com/download
 
 
-go to settings -> theme -> select light
+2. Go to the settings of the app -> theme -> select light
 
 
-clone the repository using *git clone https://github.com/ConstantiNish/Auto_Response_Bot_for_WhatsApp*
+3. Clone the repository using *git clone https://github.com/ConstantiNish/Auto_Response_Bot_for_WhatsApp*
 
 
-change the replies as you prefer, in the wa.py file.
+4. Change the replies as you prefer, in the wa.py file.
 
 
-run the wa.py file.
+5. Run the wa.py file.
 
 
