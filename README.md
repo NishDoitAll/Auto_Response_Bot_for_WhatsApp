@@ -9,7 +9,7 @@ An 'Auto Reply BOT', that is capable of reading the message and replying to it w
 2. Go to the settings of the app -> theme -> select light
 
 
-3. Clone the repository using *git clone https://github.com/ConstantiNish/Auto_Response_Bot_for_WhatsApp*
+3. Clone the repository using '*git clone https://github.com/ConstantiNish/Auto_Response_Bot_for_WhatsApp*'
 
 
 4. Change the replies as you prefer, in the wa.py file.
