@@ -19,5 +19,5 @@ An 'Auto Reply BOT', that is capable of reading the message and replying to it w
 
 
 
-WATCH MY YOUTUBE VIDEO FOR COMPLETE PROCEDURE https://www.youtube.com/channel/UCy_sO9AwZp9EWZyzHfwtyWQ/videos  *-channel link*
+WATCH MY YOUTUBE VIDEO FOR COMPLETE PROCEDURE https://youtu.be/uTtELWy4uOI  *-channel link*
 
